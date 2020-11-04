@@ -5,7 +5,5 @@ The tuple is a data structure that can hold different types of elements, unlike 
 ## Initialization
 
 ```cpp,editable
-#include <tuple> // include the tuple header for tuple related functions
-std::tuple<int, std::string> t = {5, "hi"};
-const auto [first, second] = t; // destructure the first element into the variable first, and the second element into the variable second.
+{{#include ../../code/scratch/cc/stl/utility/tuple/tuple.cc}}
 ```

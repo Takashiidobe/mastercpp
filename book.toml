@@ -3,7 +3,7 @@ authors = ["takashiidobe"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Grok Modern C++"
+title = "Master C++"
 
 [output.html.playground]
 editable = true

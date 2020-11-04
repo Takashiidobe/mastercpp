@@ -1,4 +1,8 @@
 book/
+a.out
 
 # Local Netlify folder
 .netlify
+
+# Local VS code folder
+.vscode

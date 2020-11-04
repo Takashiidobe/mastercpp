@@ -2,21 +2,16 @@
 
 We're going to assume some passing familiarity with a programming language of your choice. As long as you know the basics, you should be fine. That being said, we won't teach you C++ from nothing. For that we recommend [LearnCpp](https://www.learncpp.com/) which this site is loosely based off of.
 
-```cpp
-#include <iostream>
-
-int main() {
-  std::cout << "Hello world!" << std::endl;
-  return 0;
-}
+```cpp,editable
+{{#include ../../code/introduction/hello_world.cc}}
 ```
 
 Let's analyze this.
 
 `#include` includes the code in a header file for the program to use. We use the functions `std::cout` and `std::endl` from this header file.
 
-```cpp
-#include <iostream>
+```cpp,editable
+{{#include ../../code/introduction/hello_world.cc:1}}
 ```
 
 `int main() {}` is the body which defines the `main` function. Currently the main function takes no arguments, although we may allow our program to take some later on.

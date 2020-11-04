@@ -1,5 +1,7 @@
 # Summary
 
+- [Table of Contents](./TABLE_OF_CONTENTS.md)
+
 - [History](./history/_index.md)
 
   - [History of C](./history/history-of-c.md)
@@ -15,6 +17,8 @@
   - [Strings of Characters](./basic-c/strings-of-characters.md)
   - [Other Number Types](./basic-c/other-number-types.md)
   - [Control Flow](./basic-c/control-flow.md)
+  - [Abstraction](./basic-c/abstraction.md)
+  - [Function Pointers](./basic-c/function-pointers.md)
 
 - [Introduction](./introduction/_index.md)
 
