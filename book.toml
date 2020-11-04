@@ -1,0 +1,10 @@
+[book]
+authors = ["takashiidobe"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Grok Modern C++"
+
+[output.html.playground]
+editable = true
+line-numbers = true
